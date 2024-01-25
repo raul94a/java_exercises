@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ffaf4b0-2c46-404b-b092-0489e1d9690e" name="Changes" comment="" />
+    <list default="true" id="0ffaf4b0-2c46-404b-b092-0489e1d9690e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/MorseDecoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,12 +41,20 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "WebServerToolWindowFactoryState": "false",
-    "nodejs_package_manager_path": "npm"
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CambiarCadenasFormaDos">
+  <component name="RunManager" selected="Application.MorseDecoder">
     <configuration name="CambiarCadenas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CambiarCadenas" />
+      <module name="untitled.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CambiarCadenasArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CambiarCadenasArray" />
       <module name="untitled.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -55,8 +67,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MorseDecoder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MorseDecoder" />
+      <module name="untitled.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MorseDecoder" />
+        <item itemvalue="Application.CambiarCadenasArray" />
         <item itemvalue="Application.CambiarCadenasFormaDos" />
         <item itemvalue="Application.CambiarCadenas" />
       </list>
@@ -71,6 +92,8 @@
       <option name="presentableId" value="Default" />
       <updated>1705347763218</updated>
       <workItem from="1705347767496" duration="4230000" />
+      <workItem from="1705429979115" duration="484000" />
+      <workItem from="1706173894293" duration="3397000" />
     </task>
     <servers />
   </component>
@@ -87,5 +110,20 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/CambiarCadenasArray.java</url>
+          <line>3</line>
+          <properties class="CambiarCadenasArray" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
