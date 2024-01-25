@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ffaf4b0-2c46-404b-b092-0489e1d9690e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/CalculadoraBinaria.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CifrarClaves.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,16 +68,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CalculadoraBinaria">
+  <component name="RunManager" selected="Application.CifrarClaves">
     <configuration name="CalculadoraBinaria" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CalculadoraBinaria" />
-      <module name="untitled.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CambiarCadenas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CambiarCadenas" />
       <module name="untitled.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -99,6 +90,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CifrarClaves" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CifrarClaves" />
+      <module name="untitled.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MorseDecoder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MorseDecoder" />
       <module name="untitled.main" />
@@ -108,11 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CifrarClaves" />
         <item itemvalue="Application.CalculadoraBinaria" />
         <item itemvalue="Application.MorseDecoder" />
         <item itemvalue="Application.CambiarCadenasArray" />
         <item itemvalue="Application.CambiarCadenasFormaDos" />
-        <item itemvalue="Application.CambiarCadenas" />
       </list>
     </recent_temporary>
   </component>
@@ -127,7 +125,7 @@
       <workItem from="1705347767496" duration="4230000" />
       <workItem from="1705429979115" duration="484000" />
       <workItem from="1706173894293" duration="3397000" />
-      <workItem from="1706198728421" duration="1509000" />
+      <workItem from="1706198728421" duration="3124000" />
     </task>
     <servers />
   </component>
